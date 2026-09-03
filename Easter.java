@@ -36,7 +36,6 @@ public class Easter{
         int p = (h + r - 7 * m + 114)%31;
         System.out.println("p = "+p);
 
-//1234020203910123091201239
 
 
     
